@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**GOALLINNOOUT/GOALLINNOOUT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Adela! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer, designer, and lifelong learner. I love building modern, user-friendly web applications and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+- 💡  I developed JC's Closet and other several full-stack projects
+- 🎨 Enthusiastic about UI/UX, clean code, and seamless user experiences
+- 🌱 Always learning: currently exploring AI, cloud, and advanced JavaScript frameworks
+- 🤝 Open to collaboration and new opportunities
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** JavaScript, TypeScript, PHP
+- **Frontend:** React, Vite, Material UI, CSS, HTML
+- **Backend:** Node.js, Express, MongoDB, MySQL
+- **Other:** Git, REST APIs,  Cloudinary
+
+---
+
+## 📌 Featured Projects
+- **JC's Closet:** Full-stack e-commerce platform for fashion and lifestyle
+
+---
+
+
+
+
+## 📫 Connect with Me
+- GitHub: [GOALLINNOOUT](https://github.com/GOALLINNOOUT)
+- Email: adeyekunadelola0@gmail.com
+- LinkedIn: [faith-adeyekun-14893a363](https://www.linkedin.com/in/faith-adeyekun-14893a363/)
+- X (Twitter): [@AdelaAdeyekun](https://x.com/AdelaAdeyekun)
+- Portfolio: [adelaportfolio.vercel.app](https://adelaportfolio.vercel.app/admin)
+- JC's Closet Live: [jccloset.vercel.app](https://jccloset.vercel.app/)
+- WhatsApp: [+2347043129502](https://wa.me/2347043129502)
+
+---
+
+Thanks for visiting my profile! 🚀
