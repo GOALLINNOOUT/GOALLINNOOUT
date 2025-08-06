@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer, designer, and lifelong
 ---
 
 ## 📌 Featured Projects
-- **JC's Closet:** Full-stack e-commerce platform for fashion and lifestyle
+- **JC's Closet:** Full-stack e-commerce platform for perfumes and clothes.
 
 ---
 
